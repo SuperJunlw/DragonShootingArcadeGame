@@ -1,0 +1,17 @@
+.vs/
+icon.rc
+obj/
+project2.sln
+project2.vcxproj
+project2.vcxproj.filters
+project2.vcxproj.user
+FreeImage.dll*  
+fmodL.dll*     
+project2.lib         
+project2_debug.lib
+project2.exe*  
+project2_debug.exe*  
+project2_debug.pdb
+fmod.dll*       
+project2.exp   
+project2_debug.exp
