@@ -9,7 +9,7 @@ A 2D mini arcade game of a dragon shooting pursuing rockets. Developed using ope
 - A 2D background
 - Particle effect for collision between player and enemies, explosion of the enemies
 - Start screen, in-game screen and end-game screen
-- Controlable enemy number, enemy life time, spawn amount, and dragon movement speed
+- Controlable enemy number, enemy life time, spawn amount, and dragon movement speed and fireball rate
 
 Dragon Shooting Arcade Game
 ![2dGame](https://user-images.githubusercontent.com/89228133/206940624-0813b486-0640-4404-901e-54f37e8e161f.png)
