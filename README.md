@@ -5,6 +5,7 @@ A 2D mini arcade game of a dragon shooting pursuing rockets. Developed using ope
 - Enemies turns to and pursuits player right after them spawn, the movements of the enemies are control by phyics forces.
 - Player can control the movements and rotation of the dragon
 - Player can control dragon to fire a fireball ray, when fireball hits an enemy, player will gain a energy level(Hit point)
+- After the fireball from player hits a enemy, that enemy will explode and disappear
 - Sound effects for the movement of dragon, fireball, collisions and explostion
 - A 2D background
 - Particle effect for collision between player and enemies, explosion of the enemies
