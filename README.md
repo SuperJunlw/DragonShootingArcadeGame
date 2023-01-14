@@ -8,6 +8,7 @@ A 2D mini arcade game of a dragon shooting pursuing rockets. Developed using ope
 - After the fireball from player hits a enemy, that enemy will explode and disappear
 - Sound effects for the movement of dragon, fireball, collisions and explostion
 - A 2D background
+- Designed player model (dragon) and enmeies (rockets)
 - Particle effect for collision between player and enemies, explosion of the enemies
 - Start screen, in-game screen and end-game screen
 - Controlable enemy number, enemy life time, spawn amount, and dragon movement speed and fireball rate
